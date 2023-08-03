@@ -1,0 +1,48 @@
+.btnBlue {
+  display: flex;
+  color: #ffffff;
+  /* background-color: #592602; */
+  text-decoration: none;
+  border: 1px solid transparent;
+  height: 48px;
+  width: 149px;
+  padding: 0px 24px 0px 24px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  transition: 0.4s;
+  font-size: 16px;
+  font-weight: 400;
+  cursor: pointer;
+  line-height: 24px;
+  gap: 10px;
+}
+
+.blue900 {
+  background-color: #242463;
+}
+
+.blue500 {
+  background-color: #737ebd;
+}
+
+.blue300 {
+  background-color: #bac2df;
+}
+.blueOutline {
+  border: 1px solid #242463;
+  color: #242463;
+  background-color: #e3e3ed;
+}
+.blue50 {
+  background-color: #d4d3e0;
+  color: #242463;
+}
+.blue50Outline {
+  border: 1px solid #D4D3E0;
+  color: #D4D3E0; 
+  background-color: #e3e3ed;
+}
+img {
+  color: #ffffff;
+}

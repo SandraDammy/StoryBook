@@ -1,0 +1,11 @@
+.label {
+  color: rgb(165, 13, 13);
+  padding: 8px;
+}
+
+.small {
+  color: rgb(143, 210, 17);
+}
+.big {
+  color: green;
+}
