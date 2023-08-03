@@ -4,7 +4,7 @@ import Refresh from "../../img/Refresh.png";
 import Refreshs from "../../img/Refresh.svg";
 
 export default {
-  title: "Button_Primary",
+  title: "Form/Button_Primary",
   component: Button_Primary,
 };
 
