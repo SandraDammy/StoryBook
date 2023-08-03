@@ -1,0 +1,41 @@
+.input {
+    display: block;
+    width: 480px;
+    height: 48px;
+    padding: 2px 10px 2px 10px;
+    border-radius: 8px;
+    border: 1px solid #D9D9D9;
+    background-color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.empty {
+    border: 1px solid #D9D9D9;
+    color: #333333;
+    background-color: #FFFFFF;
+
+}
+
+.filled {
+    border: 1px solid #D9D9D9;
+    color: #333333;
+    background-color: #FFFFFF;
+}
+
+.active{
+    border: 1px solid #633CFF;
+    color: #333333;
+    background-color: #FFFFFF;
+}
+.error {
+    border: 1px solid #ED2025;
+    color: #ED2025;
+    background-color: #FFFFFF;
+}
+.correct {
+    border: 1px solid #633CFF;
+    color: #333333;
+    background-color: #FFFFFF;
+}
