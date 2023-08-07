@@ -3,7 +3,7 @@ import TextField from "./TextField";
 
 export default {
   title: "Form/Text Field",
-  component: TextField,
+  component: TextField
 };
 
 export const Empty = () => (
@@ -21,3 +21,7 @@ export const Error = () => (
 export const Correct = () => (
   <TextField text="correct" placeholder="Text Field Correct" />
 );
+ 
+
+//change story name 
+Empty.storyName = 'Empty-text'
